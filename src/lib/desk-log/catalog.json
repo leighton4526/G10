@@ -1,0 +1,31 @@
+{
+  "note": "Append-only. The first file copy is 2026-11-07 (data and settles only). Do not rewrite it. A later build also copies the skill, the scoring files inside data, and artifacts/DESK-HARD-COPY.md. Do not backfill. Do not write this folder into /workspace/settles/. A same book is not stored twice. The 6 Nov row is a note only and has no file copy. The page reads the copy. It does not write it back.",
+  "builds": [
+    {
+      "id": "2026-11-07",
+      "storedAt": "2026-11-07T16:14:28.933Z",
+      "dataAsOf": "Friday 6 Nov 2026 · 04:53 GMT",
+      "cut": "Thu 5 Nov",
+      "index": 21,
+      "kind": "off",
+      "flavour": "energy",
+      "flavourLabel": "Energy",
+      "copied": true,
+      "fingerprint": "d1bb2ed4a4951342",
+      "copy": "archive/builds/2026-11-07"
+    },
+    {
+      "id": "2026-11-07-2",
+      "storedAt": "2026-11-07T16:55:13.948Z",
+      "dataAsOf": "Friday 6 Nov 2026 · 04:53 GMT",
+      "cut": "Thu 5 Nov",
+      "index": 21,
+      "kind": "off",
+      "flavour": "energy",
+      "flavourLabel": "Energy",
+      "copied": true,
+      "fingerprint": "33f9cfdcc9019402",
+      "copy": "archive/builds/2026-11-07-2"
+    }
+  ]
+}
